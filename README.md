@@ -4,6 +4,4 @@
 
 [Bot Framework] (https://dev.botframework.com/)
 
-This project is a minimal version of Bot Framework Application in python.
-
-Python으로 Bot Framework 최소 기능을 수행하는 샘플 앱 프로젝트입니다.
+Python 기본코드로 Bot Framework  실행 
